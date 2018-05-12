@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9514
     wikipedia: http://de.wikipedpa.org/wiki/Jakob_Christoph_Heer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20786#An-heiligen-WassernRoman-aus-dem-schweizerischen-Hochgebirge
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2007-03-08'
 gutenberg_type: Text

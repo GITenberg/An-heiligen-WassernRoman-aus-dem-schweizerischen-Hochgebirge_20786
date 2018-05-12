@@ -1,0 +1,29 @@
+_repo: An-heiligen-WassernRoman-aus-dem-schweizerischen-Hochgebirge_20786
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heer, J. C. (Jakob Christoph)
+    alias: Heer, Jakob Christoph
+    birthdate: 1859
+    deathdate: 1925
+    gutenberg_agent_id: '9514'
+    url: http://www.gutenberg.org/2009/agents/9514
+    wikipedia: http://de.wikipedpa.org/wiki/Jakob_Christoph_Heer
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20786'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Switzerland -- Fiction'
+title: 'An heiligen Wassern: Roman aus dem schweizerischen Hochgebirge'
+url: http://www.gutenberg.org/ebooks/20786
